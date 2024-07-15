@@ -5,7 +5,7 @@ Para acessar, basta que siga os seguintes passos
 <ul>
  <li>Crie uma pasta vazia</li>
  <li>Copie o repositório usando: git clone https://github.com/fnsantos-dev/Banco-de-dados-de-uma-Pizzaria.git</li>
- <li>Execute o arquivo Executavel BP.exe</li>
+ <li>Execute o arquivo BP.exe</li>
 </ul>
 
 O projeto consiste em duas Abas, a aba do cliente e a aba da loja
