@@ -20,6 +20,18 @@ O projeto consiste em duas Abas, a aba do cliente e a aba da loja
 
 <hr>
 
+Já na Área da Loja, temos a opção de cadastro de pizza, edição ou remoção! Além de sabermos a quantidade de entregadores disponiveis, o status da entrega e o montante total dos pedidos!
+
+
+![image](https://github.com/user-attachments/assets/bef507a1-f0a3-41b6-94ba-7e1043303a59)
+
+<hr>
+
+
+
+
+
+
 
 
  
