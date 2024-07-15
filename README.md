@@ -1,4 +1,6 @@
-Projeto Desenvolvido por mim na faculdade, que consiste no cadastro e remoção de clientes e pizzas.
+Projeto Desenvolvido por mim na faculdade, que consiste no cadastro e remoção de clientes e pizzas
+
+Para a
 
 O projeto consiste em duas Abas, a aba do cliente e a aba da loja
 
@@ -23,7 +25,8 @@ O projeto consiste em duas Abas, a aba do cliente e a aba da loja
 Já na Área da Loja, temos a opção de cadastro de pizza, edição ou remoção! Além de sabermos a quantidade de entregadores disponiveis, o status da entrega e o montante total dos pedidos!
 
 
-![image](https://github.com/user-attachments/assets/bef507a1-f0a3-41b6-94ba-7e1043303a59)
+![image](https://github.com/user-attachments/assets/1395fd69-2aa2-4e20-aaad-c8bce8598512)
+
 
 <hr>
 
