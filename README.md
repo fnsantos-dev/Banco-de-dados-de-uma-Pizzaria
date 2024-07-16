@@ -15,7 +15,8 @@ O projeto consiste em duas Abas, a aba do cliente e a aba da loja
 
 
  
-![image](https://github.com/user-attachments/assets/5f7e32bb-929d-4ee0-a97d-5fba47a996fb)
+![image](https://github.com/user-attachments/assets/654b4131-823e-4feb-8808-813e3a35f719)
+
 
 <hr>
 Área do Cliente onde ele é capaz de ver o se cadastrar menu, pedir pizzas e saber a situação do entregador!
